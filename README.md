@@ -10,3 +10,7 @@ Här listas källor som kan användas för att genomföra idén.
 
 Skoladresser från skolenhetsregistret
 https://www.skolverket.se/skolutveckling/statistik/om-skolverkets-statistik/skoladresser-fran-skolenhetsregistret
+
+# Mailskiss
+
+![Mailskiss nr 1](https://github.com/edvind/HistoriePunkt/raw/master/mailskiss_1.png)
